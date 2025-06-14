@@ -17,20 +17,6 @@ I'm currently learning cybersecurity with a goal of becoming a Tier 1 SOC Analys
 
 ## Tools
 
-
-### Network
-<div>
-
-</div>
-
-### Endpoint
-<div>
-
-</div>
-
-### SIEM
-<div>
-
 </div>
 
 ## Certifications
