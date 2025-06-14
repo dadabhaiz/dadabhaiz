@@ -1,7 +1,7 @@
 # Hello, I'm Zahid
 <a  /></a>
 
-Aspiring cybersecurity analyst currently building a strong foundation in IT and security fundamentals. I’m focused on gaining hands-on experience, earning beginner certifications, and preparing for a role as a Tier 1 SOC Analyst. Passionate about cybersecurity, problem-solving, and continuous learning.
+Early-career cybersecurity enthusiast with a focus on SOC analyst skills, including threat monitoring, log analysis, and incident response. Actively learning through certifications and practical labs.
 
 
 ## Objective
